@@ -1,6 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Marcos Lopez 👋</h1>
 
-<!--
+## Sobre mi
+
+- ⭐ Data Analyst ⭐ 
+- 📗 IBM Data Science
+- 📗 Google Data Analytics
+- 🌏 Relaciones Internacinales en UCA
+
+  <!--
 **MarcosLopezMartinez/MarcosLopezMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
